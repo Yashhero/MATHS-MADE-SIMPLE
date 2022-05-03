@@ -1,0 +1,6 @@
+A = float(input("first number : "))
+B = float(input("Enter second number : "))
+
+quotient = (A/B)
+
+print("\nanswer is\n",quotient)
