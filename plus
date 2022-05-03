@@ -1,0 +1,7 @@
+P = float(input("Enter first number : "))
+R = float(input("Enter second number: "))
+
+
+answer = (P+R)
+
+print("\nanswer is\n",answer)
