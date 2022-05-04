@@ -1,0 +1,6 @@
+A = float(input("Enter number of which you want square : "))
+
+
+answer = (A**(1/2))
+
+print("\nanswer is\n",answer)
